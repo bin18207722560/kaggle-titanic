@@ -1,7 +1,7 @@
 """RandomForest
 """
-import loaddata  ##
-import scorereport
+import loaddata  ##加载数据
+import scorereport ##开源机器学习库
 import learningcurve
 import roc_auc
 import numpy as np
